@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm TrNgan</h1>
 <h3 align="center">An aspiring Financial Analyst with a passion for turning data into financial insights.</h3>
 
-- 🔭 I’m currently working on **Airbnb Platform**
+- 🔭 I’m currently working on **Airbnb Platform, Yuanta Securities**
 
 - 🌱 I’m currently learning **SQL, Tableau, Power BI,**
 
-- 👯 I’m looking to collaborate on **Airbnb App**
+- 👯 I’m looking to collaborate on **Airbnb App, Fiin Group**
 
 - 📫 How to reach me **ngantran14.work@gmail.com**
 
