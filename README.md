@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Airbnb Platform, Yuanta Securities**
 
-- 🌱 I’m currently learning **SQL, Tableau, Power BI,**
+- 🌱 I’m currently learning **SQL, Tableau, Power BI**
 
 - 👯 I’m looking to collaborate on **Airbnb App, Fiin Group**
 
