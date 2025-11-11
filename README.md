@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TrNgan</h1>
-<h3 align="center">Pursuing a career in Financial Data Analysis</h3>
+<h3 align="center">Pursuing a career in Equity Research Analyst </h3>
 
 - 🔭 I’m currently working on **Airbnb Platform, Yuanta Securities**
 
